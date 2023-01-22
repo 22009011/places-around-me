@@ -9,6 +9,7 @@ Write your own steps here.
 ### Step 2:
 
 ## Code
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
