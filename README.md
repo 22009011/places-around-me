@@ -171,4 +171,3 @@ The main objectives of NLC Higher Secondary School are
 [NEYVELI BUS STAND.pdf](https://github.com/22009011/places-around-me/files/10474883/NEYVELI.BUS.STAND.pdf)
 ## Result:
 program excecuted succesfully
-
