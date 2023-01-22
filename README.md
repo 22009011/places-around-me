@@ -1,4 +1,3 @@
-[NEYVELI BUS STAND.pdf](https://github.com/22009011/places-around-me/files/10474909/NEYVELI.BUS.STAND.pdf)
 # Places Around Me
 ## AIM:
 To develop a website to display details about the places around my house.
