@@ -166,8 +166,8 @@ The main objectives of NLC Higher Secondary School are
 </html>
 ```
 
-## Output:
-image png[NEYVELI BUS STAND.pdf]
-[NEYVELI BUS STAND.pdf]
+## Output: 
+[CANARA BANK.pdf](https://github.com/22009011/places-around-me/files/10474907/CANARA.BANK.pdf)
+
 ## Result:
 program excecuted succesfully
