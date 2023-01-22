@@ -167,7 +167,7 @@ The main objectives of NLC Higher Secondary School are
 ```
 
 ## Output:
-[NEYVELI BUS STAND.pdf]
+image png[NEYVELI BUS STAND.pdf]
 [NEYVELI BUS STAND.pdf]
 ## Result:
 program excecuted succesfully
