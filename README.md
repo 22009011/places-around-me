@@ -5,9 +5,13 @@ To develop a website to display details about the places around my house.
 ## Design Steps:
 
 ### Step 1:
-Write your own steps here.
+clone the git repository
 ### Step 2:
-
+Create a new Django project
+##step 3:
+write the needed html code
+#### step 4:
+Run the program and upload the output files
 ## Code
 ```
 <!DOCTYPE html>
@@ -168,6 +172,11 @@ The main objectives of NLC Higher Secondary School are
 
 ## Output: 
 ![image](https://user-images.githubusercontent.com/118343461/214336460-a238971a-6b56-456f-866b-5ba4bb13ea63.png)
+![image](https://user-images.githubusercontent.com/118343461/214336937-5d8001be-da21-4487-bd1d-453ad68be354.png)
+![image](https://user-images.githubusercontent.com/118343461/214337066-4a10d7f5-e123-479b-9862-6035c7140e86.png)
+![image](https://user-images.githubusercontent.com/118343461/214337202-031c662d-6a4d-4e97-b1f9-6f5b97f6e2f3.png)
+![image](https://user-images.githubusercontent.com/118343461/214337317-7cc149a6-f983-443d-bb6d-54bc3238aa51.png)
+![image](https://user-images.githubusercontent.com/118343461/214337435-8d810cae-8c79-4587-83d5-cd8618346575.png)
 
 
 ## Result:
