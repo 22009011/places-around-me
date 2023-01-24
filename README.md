@@ -178,6 +178,8 @@ The main objectives of NLC Higher Secondary School are
 ![image](https://user-images.githubusercontent.com/118343461/214337317-7cc149a6-f983-443d-bb6d-54bc3238aa51.png)
 ![image](https://user-images.githubusercontent.com/118343461/214337435-8d810cae-8c79-4587-83d5-cd8618346575.png)
 
+###validater
+![image](https://user-images.githubusercontent.com/118343461/214343578-ae538a87-d2ec-46c3-98e4-1c89d1b7cc68.png)
 
 ## Result:
 program excecuted succesfully
