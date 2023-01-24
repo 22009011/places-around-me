@@ -167,7 +167,8 @@ The main objectives of NLC Higher Secondary School are
 ```
 
 ## Output: 
-[CANARA BANK.pdf](https://github.com/22009011/places-around-me/files/10474907/CANARA.BANK.pdf)
+![image](https://user-images.githubusercontent.com/118343461/214336460-a238971a-6b56-456f-866b-5ba4bb13ea63.png)
+
 
 ## Result:
 program excecuted succesfully
